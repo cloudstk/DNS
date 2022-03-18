@@ -3,6 +3,28 @@ Resolve DnsName
 ==
 The Resolve-DnsName cmdlet performs a DNS query for the specified name. This cmdlet is functionally similar to the nslookup tool which allows users to query for names.
 
+Syntax
+--
+```
+Resolve-DnsName
+       [-Name] <String>
+       [[-Type] <RecordType>]
+       [-Server <String[]>]
+       [-DnsOnly]
+       [-CacheOnly]
+       [-DnssecOk]
+       [-DnssecCd]
+       [-NoHostsFile]
+       [-LlmnrNetbiosOnly]
+       [-LlmnrFallback]
+       [-LlmnrOnly]
+       [-NetbiosFallback]
+       [-NoIdn]
+       [-NoRecursion]
+       [-QuickTimeout]
+       [-TcpOnly]
+       [<CommonParameters>]
+  ```
 
 EXAMPLE 1
 --
