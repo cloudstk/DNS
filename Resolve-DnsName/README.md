@@ -62,3 +62,14 @@ PS C:\> Resolve-DnsName -Name www.bing.com -DnsOnly
 ```
 
 This example resolves a name using only DNS. LLMNR and NetBIOS queries are not issued.
+
+Parameters
+--
+-CacheOnly
+Resolves this query using only the local cache.
+
+Type:	SwitchParameter
+Position:	Named
+Default value:	None
+Accept pipeline input:	False
+Accept wildcard characters:	False
