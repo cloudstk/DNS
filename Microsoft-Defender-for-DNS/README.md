@@ -1,3 +1,15 @@
 Microsoft Defender for DNS
 ==
 Microsoft Defender for DNS provides an additional layer of protection for your Azure resources by continuously monitoring all DNS queries from Azure resources and runs advanced security analytics to alert you when suspicious activity is deleted.
+
+Microsoft Defender for DNS protects against issues including:
+--
+- Data exfiltration from your Azure resources using DNS tunneling
+
+- Malware communicating with command and control servers
+
+- DNS attacks - communication with malicious DNS resolvers
+
+- Communication with domains used for malicious activities such as phishing and crypto mining
+
+And all of that without using any agents. All you have to do is use the DNS that Azure offers and to enable the Microsoft Defender plan for DNS.
