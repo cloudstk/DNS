@@ -1,1 +1,2 @@
-# Public DNS
+Repository for managing Azure Public DNS
+--
