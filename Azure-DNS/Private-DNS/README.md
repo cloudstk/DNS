@@ -1,1 +1,3 @@
-# Azure Private DNS
+Repository for managing Azure Private DNS
+--
+
