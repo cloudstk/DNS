@@ -1,5 +1,5 @@
 Get a Free SSL Certificate in Azure App Service
----
+--
 The free certificate comes with the following limitations:
 -	Naked domains are not supported.
 -	Does not support wildcard certificates.
