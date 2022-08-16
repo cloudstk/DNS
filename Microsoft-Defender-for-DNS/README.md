@@ -20,3 +20,5 @@ To enable enhanced security features on one subscription:
 - Select the *subscription or workspace* that you want to protect.
 - Select Enable all Microsoft Defender plans to upgrade.
 - Select Save.
+
+![Image](https://github.com/cloudstk/DNS/blob/ca0420a1a11dc604e804441cd83d468f19233340/Microsoft-Defender-for-DNS/media/MS-Defender-plan-enable.jpg "icon")
