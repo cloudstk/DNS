@@ -1,1 +1,2 @@
-# Microsoft Defender for Azure DNS
+Microsoft Defender for Azure DNS
+---
