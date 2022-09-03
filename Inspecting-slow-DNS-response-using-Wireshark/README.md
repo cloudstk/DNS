@@ -1,6 +1,7 @@
 # Inspecting slow DNS response using Wireshark
 
 DNS Record Types
+--
 | Record        | Description |
 | ------------- | ------------- |
 | A             | IPv4 address  |
@@ -14,6 +15,7 @@ DNS Record Types
 | TXT           | Text record  |
 
 DNS Header Flags
+--
 | Flag          | Description |
 | ------------- | ------------- |
 | AA            | Authoritative Answer  |
