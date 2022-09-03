@@ -13,6 +13,14 @@ DNS Record Types
 | SRV           | Service location record  |
 | TXT           | Text record  |
 
+DNS Header Flags
+| Flag          | Description |
+| ------------- | ------------- |
+| AA            | Authoritative Answer  |
+| TC            | Truncated Response  |
+| RD            | Recursion Desired  |
+| RA            | Recursion Available  |
+
 
 Useful links:
 --
