@@ -1,6 +1,6 @@
 # Dangling DNS
 
-
+Reference list of Azure domains.
 | Service        | Type | FQDNproperty |
 | ------------- | ------------- |------------- |
 |Azure Front |Door	microsoft.network/frontdoors	|xyz.azurefd.net|
