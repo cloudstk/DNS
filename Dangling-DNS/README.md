@@ -1,6 +1,8 @@
 # Dangling DNS
 
-Reference list of Azure domains.
+Reference list of Azure domains (not comprehensive). 
+
+Filter CNAMEs for the canonical name having ending part of URL as in table below.
 | Service        | Type | FQDNproperty |
 | ------------- | ------------- |------------- |
 |Azure Front |Door	microsoft.network/frontdoors	|xyz.azurefd.net|
