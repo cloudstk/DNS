@@ -22,7 +22,7 @@ DNS Header Flags
 | TC            | Truncated Response  |
 | RD            | Recursion Desired  |
 | RA            | Recursion Available  |
-
+| Z             | Reserved for future use. set this field to 0 |
 
 Useful links:
 
