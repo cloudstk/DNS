@@ -44,3 +44,5 @@ signifies that the domain name referenced in the query does not exist.
 Useful links:
 
 [Troubleshooting DNS servers](https://docs.microsoft.com/en-us/windows-server/networking/dns/troubleshoot/troubleshoot-dns-server)
+
+[How the Domain Name System (DNS) Works](https://www.verisign.com/en_US/website-presence/online/how-dns-works/index.xhtml)
