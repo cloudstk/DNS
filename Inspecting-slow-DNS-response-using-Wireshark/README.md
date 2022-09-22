@@ -1,5 +1,5 @@
-# Inspecting slow DNS response using Wireshark
-
+Inspecting slow DNS response using Wireshark
+---
 DNS Record Types
 --
 | Record        | Description |
