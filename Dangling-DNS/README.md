@@ -1,4 +1,5 @@
-# Dangling DNS
+Dangling DNS
+--
 
 Reference list of Azure domains (not comprehensive). 
 
