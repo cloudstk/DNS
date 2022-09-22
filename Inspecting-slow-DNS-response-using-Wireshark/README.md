@@ -42,6 +42,7 @@ signifies that the domain name referenced in the query does not exist.
 5 - Refused - The name server refuses to perform the specified operation for policy reasons.
 
 Useful links:
+---
 
 [Troubleshooting DNS servers](https://docs.microsoft.com/en-us/windows-server/networking/dns/troubleshoot/troubleshoot-dns-server)
 
